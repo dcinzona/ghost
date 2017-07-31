@@ -1,0 +1,30 @@
+
+
+.floating-header{
+    background:rgba(0,0,0,.85);   
+}
+.floating-header-logo a{
+    color:white;
+}
+.floating-header-title{
+    color:#ddd;
+}
+
+.flex-video, iframe {
+  margin-bottom: 1.875rem;
+  border: 0.3125rem solid #fff;
+  box-shadow: 0 0 0.125rem rgba(0, 0, 0, 0.3); 
+}
+@media only screen and (min-width: 40.063em) {
+    .flex-video, iframe {
+        margin-bottom: 3.75rem; 
+    } 
+}
+
+
+.post-full-content,
+.post-card-excerpt,
+.subscribe-overlay-description,
+.site-header-content .author-meta  {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
