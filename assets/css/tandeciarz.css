@@ -42,6 +42,7 @@
     font-weight: 500;
     letter-spacing: .5px;
     text-transform: uppercase;
+    margin-bottom: .6em;
 }
 .post-card-header .post-card-tags,
 .post-card-header .date-divider{
